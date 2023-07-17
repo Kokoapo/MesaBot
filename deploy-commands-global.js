@@ -30,6 +30,6 @@ const rest = new REST({ version: "10" }).setToken(TOKEN);
             Routes.applicationCommands(CLIENT_ID),
             {body: commands}
         )
-        console.log('All commands successfully deployed!');
+        console.log('All commands successfully deployed! Commands will be available in about an hour');
     } catch (err) { console.error(err); }
 })()
