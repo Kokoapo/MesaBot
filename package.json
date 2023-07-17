@@ -1,0 +1,25 @@
+{
+  "name": "mesabot",
+  "version": "1.0.0",
+  "description": "Mesa Themed Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node deploy-commands-global.js",
+    "start": "node index.js",
+    "dev": "node deploy-commands-local.js && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kokoapo/MesaBot.git"
+  },
+  "author": "Kokoapo - Vinicius Visconsini Diniz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kokoapo/MesaBot/issues"
+  },
+  "homepage": "https://github.com/Kokoapo/MesaBot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
