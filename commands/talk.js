@@ -1,6 +1,7 @@
 const { SlashCommandBuilder } = require('discord.js');
 
-const replies = ["Hi!", "HiHiiiiiii!!!", "Hewooooooo :3", "EEEEEEEEEEEEE", "Yeeeeeeehawwww", "AWOGA >:>"];
+// /talk command: Picks up a random string inside the replies array and replies with this string
+const replies = ["Hi!", "HiHiiiiiii!!!", "HAIHAIIIIII", "Hewooooooo :3", "EEEEEEEEEEEEE", "Yeeeeeeehawwww", "AWOGA >:>"];
 module.exports = {
     data: new SlashCommandBuilder()
         .setName("talk")
