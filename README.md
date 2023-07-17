@@ -3,6 +3,7 @@
 
 ### Original bot profile picture image:
 ![alt text](https://cdn.discordapp.com/attachments/745276412797124730/1130037190567657522/image.png)
+<br>
 Art made by Noirrelite/Lee Gabrielle Banquil (Aka Best Girlfriend Ever)
 
 ## Functionalities so far:
