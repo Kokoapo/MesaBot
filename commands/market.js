@@ -7,7 +7,8 @@ async function getOrders(item) {
     try {
         const response = await axios.get(`https://api.warframe.market/v1/items/${item}/orders`);
         return response.data.payload.orders;
-    } catch (error) { return null; }
+    } catch (err) { console.log(err); }
+    return null;
 }
 
 // Get the best orders (lower sell price and higher buy price) on the orders JSON object
