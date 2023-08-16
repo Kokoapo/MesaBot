@@ -12,6 +12,5 @@ Art made by Noirrelite/Lee Gabrielle Banquil (Aka Best Girlfriend Ever)
 - Get Mesa fanarts (Deviantart)
 
 ## Functionalities planned to do:
-- Update with latest news from DE and Warframe official pages (probably twitter) 
-- (Maybe) Search on Warframe Wiki
-- (Maybe) ChatGPT api integration (with cowboy roleplay)
+- ~~Update with latest news from DE and Warframe official pages (probably twitter)~~ Can do but dont have money to pay twitter API 
+- ~~ChatGPT api integration (with cowboy roleplay)~~ Can do but dont have money to pay OpenAI API
